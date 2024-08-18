@@ -8,7 +8,7 @@ import time
 import webbrowser
 
 # Set up the webhook
-hook_url = "YOUR_WEBHOOK_URL_HERE"
+hook_url = "https://discord.com/api/webhooks/1274635129721192498/uzlGAzvfLRHHVAcCGaHSlTnzngwdoGtxt0FuXWgo2UnUlXCKoP4hpLtbKumg_kRdSfNh"
 
 class GroupFinderApp:
     def __init__(self, root):
